@@ -7,5 +7,3 @@ I have been working as a software engineer for nearly ten years mainly focused o
 Team player.
 
 💬 Ask me about: Backend, Java, Microservices, RESTful APIs, CI/CD and Cloud.
-
-📫 How to reach me: [https://twitter.com/frlzno](https://twitter.com/frlzno) or [fernandolozanopajaron.com](https://www.fernandolozanopajaron.com/)
