@@ -11,4 +11,4 @@ I have been working as a software engineer for nearly ten years mainly focused o
 
 Team player.
 
-💬 Ask me about: Java, Microservices, CI/CD and Cloud.
+💬 Ask me about: Distributed systems, Observability and Cloud.
