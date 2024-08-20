@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm Fernando 👋</h1>
 
 <p align="center">
-    <a href="https://twitter.com/frlzno"><img src="https://img.shields.io/badge/twitter-@frlzno-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/fernandolozanopajaron"><img src="https://img.shields.io/badge/linkedin-Fernando-%230177B5?style=flat&logo=linkedin"/></a>
+    <a href="https://twitter.com/frlzno"><img src="https://img.shields.io/badge/x.com-@frlzno-%231FA1F1?style=flat&logo=x&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/fernandolozanopajaron"><img src="https://img.shields.io/badge/linkedin.com-Fernando-%230177B5?style=flat&logo=linkedin"/></a>
  </p>
 
 I am a passionate 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 who loves solving problems.
